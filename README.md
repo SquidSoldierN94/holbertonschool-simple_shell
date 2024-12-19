@@ -9,7 +9,6 @@
 - [Usage](#Usage)
 - [Installation & Compilation](#Installation-&-Compilation)
 - [Mandatory Tasks](#Mandatory-Tasks)
-- [Specifiers](#Specifiers)
 - [File description](#File-description)
 - [Examples and Tests](#Examples-and-Tests)
 - [Authors](#Authors)
